@@ -1,4 +1,4 @@
 # Github
 ### TEST
-* demo 
-* try
+* demo for Github
+* try to use it
